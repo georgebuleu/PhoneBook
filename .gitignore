@@ -1,0 +1,52 @@
+# Project exclude paths
+/.gradle/
+/Phone Book/task/build/
+/Phone Book/task/out/production/classes/
+/Topics/Instance methods/Circle/out/
+/Topics/Instance methods/Circle/out/production/classes/
+/Topics/Instance methods/Complex numbers/out/
+/Topics/Instance methods/Complex numbers/out/production/classes/
+/Topics/Instance methods/Counter/out/
+/Topics/Instance methods/Counter/out/production/classes/
+/Topics/Instance methods/Invoke instance method/out/
+/Topics/Instance methods/Invoke instance method/out/production/classes/
+/Topics/Instance methods/Simulating a clock/out/
+/Topics/Instance methods/Simulating a clock/out/production/classes/
+/Topics/Instance methods/Theory/out/
+/Topics/Instance methods/Theory/out/production/classes/
+/Topics/LocalDate/10 days before/out/
+/Topics/LocalDate/10 days before/out/production/classes/
+/Topics/LocalDate/LocalDate class/out/
+/Topics/LocalDate/LocalDate class/out/production/classes/
+/Topics/LocalDate/Print dates of a year with an offset/out/
+/Topics/LocalDate/Print dates of a year with an offset/out/production/classes/
+/Topics/LocalDate/The last day of a month/out/
+/Topics/LocalDate/The last day of a month/out/production/classes/
+/Topics/LocalDate/Theory/out/
+/Topics/LocalDate/Theory/out/production/classes/
+/Topics/LocalDateTime/Add days and subtract hours/out/
+/Topics/LocalDateTime/Add days and subtract hours/out/production/classes/
+/Topics/LocalDateTime/Add 11 hours and print the date/out/
+/Topics/LocalDateTime/Add 11 hours and print the date/out/production/classes/
+/Topics/LocalDateTime/Methods of LocalDateTime/out/
+/Topics/LocalDateTime/Methods of LocalDateTime/out/production/classes/
+/Topics/LocalDateTime/The passed hours since the beginning of year/out/
+/Topics/LocalDateTime/The passed hours since the beginning of year/out/production/classes/
+/Topics/LocalDateTime/Theory/out/
+/Topics/LocalDateTime/Theory/out/production/classes/
+/Topics/LocalTime/LocalTime constants/out/
+/Topics/LocalTime/LocalTime constants/out/production/classes/
+/Topics/LocalTime/Seconds between two time points/out/
+/Topics/LocalTime/Seconds between two time points/out/production/classes/
+/Topics/LocalTime/Theory/out/
+/Topics/LocalTime/Theory/out/production/classes/
+/Topics/Math library/Heron's formula/out/
+/Topics/Math library/Heron's formula/out/production/classes/
+/Topics/Math library/Pow/out/
+/Topics/Math library/Pow/out/production/classes/
+/Topics/Math library/Theory/out/
+/Topics/Math library/Theory/out/production/classes/
+/Topics/Recursion/Fix the method to print strings in the reverse order/out/
+/Topics/Recursion/Fix the method to print strings in the reverse order/out/production/classes/
+/Topics/Recursion/Theory/out/
+/Topics/Recursion/Theory/out/production/classes/

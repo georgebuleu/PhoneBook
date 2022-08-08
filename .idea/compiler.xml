@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Phone_Book1.Phone_Book-task-build-classes-java.main" target="11" />
+      <module name="Phone_Book1.Phone_Book-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Phone_Book1.Phone_Book-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Phone_Book1.Phone_Book-task-build-reports-tests.main" target="11" />
+      <module name="Phone_Book1.Phone_Book-task-build-test-results.main" target="11" />
+      <module name="Phone_Book1.Phone_Book-task-build-tmp.main" target="11" />
+      <module name="Phone_Book1.Phone_Book-task-out.main" target="11" />
+      <module name="Phone_Book1.Phone_Book-task.main" target="11" />
+      <module name="Phone_Book1.Topics-Instance_methods-Circle.main" target="11" />
+      <module name="Phone_Book1.Topics-Instance_methods-Complex_numbers.main" target="11" />
+      <module name="Phone_Book1.Topics-Instance_methods-Counter.main" target="11" />
+      <module name="Phone_Book1.Topics-Instance_methods-Invoke_instance_method.main" target="11" />
+      <module name="Phone_Book1.Topics-Instance_methods-Simulating_a_clock.main" target="11" />
+      <module name="Phone_Book1.Topics-Instance_methods-Theory.main" target="11" />
+      <module name="Phone_Book1.Topics-LocalDate-10_days_before.main" target="11" />
+      <module name="Phone_Book1.Topics-LocalDate-LocalDate_class.main" target="11" />
+      <module name="Phone_Book1.Topics-LocalDate-Print_dates_of_a_year_with_an_offset.main" target="11" />
+      <module name="Phone_Book1.Topics-LocalDate-The_last_day_of_a_month.main" target="11" />
+      <module name="Phone_Book1.Topics-LocalDate-Theory.main" target="11" />
+      <module name="Phone_Book1.Topics-LocalDateTime-Add_11_hours_and_print_the_date.main" target="11" />
+      <module name="Phone_Book1.Topics-LocalDateTime-Add_days_and_subtract_hours.main" target="11" />
+      <module name="Phone_Book1.Topics-LocalDateTime-Methods_of_LocalDateTime.main" target="11" />
+      <module name="Phone_Book1.Topics-LocalDateTime-The_passed_hours_since_the_beginning_of_year.main" target="11" />
+      <module name="Phone_Book1.Topics-LocalDateTime-Theory.main" target="11" />
+      <module name="Phone_Book1.Topics-LocalTime-LocalTime_constants.main" target="11" />
+      <module name="Phone_Book1.Topics-LocalTime-Seconds_between_two_time_points.main" target="11" />
+      <module name="Phone_Book1.Topics-LocalTime-Theory.main" target="11" />
+      <module name="Phone_Book1.Topics-Math_library-Heron's_formula.main" target="11" />
+      <module name="Phone_Book1.Topics-Math_library-Pow.main" target="11" />
+      <module name="Phone_Book1.Topics-Math_library-Theory.main" target="11" />
+      <module name="Phone_Book1.Topics-Recursion-Fix_the_method_to_print_strings_in_the_reverse_order.main" target="11" />
+      <module name="Phone_Book1.Topics-Recursion-Theory.main" target="11" />
+      <module name="Phone_Book1.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
